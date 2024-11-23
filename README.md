@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alvin-Manoj
-- 👀 I’m interested in ML and esports
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web development, esports, gaming, etc.
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me ig: @maybealvin
 
 <!---
